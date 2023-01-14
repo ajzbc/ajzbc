@@ -1,5 +1,5 @@
 ### Andrew Jazbec
-- [ajzbc.com](https://ajzbc.com)
+- [andrewjazbec.com](https://andrewjazbec.com)
 - [@andrewjazbec](https://twitter.com/andrewjazbec)
 
 <!---
